@@ -45,7 +45,7 @@ Before you begin, ensure you have the following software/tools installed:
 1. Clone the repository:
 
    ```bash
-   $ git clone https://github.com/yourusername/calibration-tool-management.git
+   $ git clone https://github.com/ShreyaBajaj333/tool-calibration.git
    $ cd calibration-tool-management
    ```
 
