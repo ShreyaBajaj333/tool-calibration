@@ -1,4 +1,3 @@
-```markdown
 # Calibration Tool Management System
 
 Calibration Tool Management System is a web-based application for managing and tracking the calibration status of tools and equipment in an industrial setting.
@@ -120,4 +119,4 @@ We would like to acknowledge the following libraries and tools used in this proj
 - [Flask](https://flask.palletsprojects.com/)
 - [SQLAlchemy](https://www.sqlalchemy.org/)
 - [Bootstrap](https://getbootstrap.com/)
-```
+
